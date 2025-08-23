@@ -32,10 +32,10 @@ Starfsemin byggir einkum á eftirfarandi lagaramma, þó ekki tæmandi talið:
 
 * **Birtingarvettvangur:** Gögn sem félaginu áskotnast í kjölfar beiðna skulu birt á GitHub síðu félagsins á opnu og aðgengilegu formi.
 * **Hlutverk félagsins:** Hlutverk félagsins er að vera hvati að birtingu opinberra gagna. Ef stjórnvald tekur upp reglubundna og aðgengilega birtingu á umbeðnum gögnum er markmiði félagsins náð að því leyti og þörf á birtingu af hálfu félagsins fellur brott.
-* **Meðferð persónuupplýsinga:** Félagið starfar út frá þeirri forsendu að gögn afhent af stjórnvöldum á grundvelli upplýsingalaga séu þegar í samræmi við lög um persónuvernd. Félagið mun þó sýna aðgát og ef augljóst er að viðkvæmar persónuupplýsingar hafi fyrir mistök verið afhentar, verður þeim ekki dreift frekar.
+* **Meðferð persónuupplýsinga:** Félagið starfar út frá þeirri forsendu að gögn afhent af stjórnvöldum á grundvelli upplýsingalaga séu þegar í samræmi við lög um persónuvernd. Félagið mun þó sýna aðgát og ef augljóst er að viðkvæmar persónuupplýsingar hafi fyrir mistök verið afhentar, verður þeim ekki dreift frekar.  
 
 
-* **Tillaga að bókun stjórnar:**
+**Tillaga að bókun stjórnar:**
     > *„Stjórn Gagnavinafélagsins samþykkir hér með „Stefnu um upplýsinga- og gagnabeiðnir“, dagsetta [Dagsetning].*
     >
     > *Jafnframt felur stjórnin formanni félagsins, [Nafn formanns], fullt umboð til að annast í nafni félagsins framlagningu, eftirfylgni og kæru erinda til stjórnvalda sem byggja á lögum nr. 140/2012, lögum nr. 45/2018, lögum nr. 37/1993, eða öðrum lögum er varða aðgang að gögnum og upplýsingum.*
