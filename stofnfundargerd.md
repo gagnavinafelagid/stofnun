@@ -1,4 +1,4 @@
-# FUNDARGERÐ STOFNFUNDAR - GAGNAVINAFÉLAGIÐ
+# DRÖG: FUNDARGERÐ STOFNFUNDAR - GAGNAVINAFÉLAGIÐ
 
 **Staður**: [STOFNSTAÐUR]
 
@@ -39,7 +39,7 @@ Trúnaðarmaður: [NAFN_TRÚNAÐARMANNS_TIL_SKOÐUNAR_REIKNINGA_OG_KENNITALA]
 Trúnaðarmaður til vara: [NAFN_VARATRÚNAÐARMANNS_TIL_SKOÐUNAR_REIKNINGA_OG_KENNITALA]
 
 7) **Firmaritun**.  
-Niðurstaða: Staðfest að firmaritun sé í höndum meirihluta stjórnar en að stjórn geti veitt formanni eða einstökum stjórnarmönnum umboð til firmarituna, enda sé um slíkt bókað á stjórnarfundi og getur verið takmarkað við tilteknar tegundir skuldbindinga, sbr. 6. gr. samþykkta.  
+Niðurstaða: Staðfest að firmaritun sé í höndum meirihluta stjórnar en að stjórn geti veitt formanni eða einstökum stjórnarmönnum umboð til firmaritunar, enda sé um slíkt bókað á stjórnarfundi og getur verið takmarkað við tilteknar tegundir skuldbindinga, sbr. 6. gr. samþykkta.  
 
 8) Bankareikningur og greiðslur.
 Niðurstaða: Nýkjörin stjórn veitir formanni heimild til að stofna bankareikning í nafni félagsins, skrá greiðsluaðila og annast rafræna auðkenningu og greiðslulausnir fyrir hönd félagsins.
