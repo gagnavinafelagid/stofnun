@@ -36,9 +36,9 @@ Starfsemin byggir einkum á eftirfarandi lagaramma, þó ekki tæmandi talið:
 
 
 **Tillaga að bókun stjórnar:**
-    > *„Stjórn Gagnavinafélagsins samþykkir hér með „Stefnu um upplýsinga- og gagnabeiðnir“, dagsetta [Dagsetning].*
-    >
-    > *Jafnframt felur stjórnin formanni félagsins, [Nafn formanns], fullt umboð til að annast í nafni félagsins framlagningu, eftirfylgni og kæru erinda til stjórnvalda sem byggja á lögum nr. 140/2012, lögum nr. 45/2018, lögum nr. 37/1993, eða öðrum lögum er varða aðgang að gögnum og upplýsingum.*
-    >
-    > *Formaður skal veita stjórn yfirlit yfir stöðu mála á reglulegum stjórnarfundum eða eftir því sem þurfa þykir.“*
+*„Stjórn Gagnavinafélagsins samþykkir hér með „Stefnu um upplýsinga- og gagnabeiðnir“, dagsetta [Dagsetning].*  
+
+*Jafnframt felur stjórnin formanni félagsins, [Nafn formanns], fullt umboð til að annast í nafni félagsins framlagningu, eftirfylgni og kæru erinda til stjórnvalda sem byggja á lögum nr. 140/2012, lögum nr. 45/2018, lögum nr. 37/1993, eða öðrum lögum er varða aðgang að gögnum og upplýsingum.*
+
+*Formaður skal veita stjórn yfirlit yfir stöðu mála á reglulegum stjórnarfundum eða eftir því sem þurfa þykir.“*
 
