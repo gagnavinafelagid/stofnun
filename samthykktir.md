@@ -10,11 +10,11 @@ Tilgangur félagsins er að vinna að því að opinber gögn sem almenningur á
 
 Félagið hyggst ná tilgangi sínum m.a. með því að:
 
-·   	óska eftir gögnum í vörslu opinberra aðila sem almenningur á rétt á
-·   	reka stjórnsýslumál, og eftir atvikum dómsmál, þegar stjórnvöld tregðast við að gera gögn aðgengileg almenningi sem með réttu ættu að vera það,  
-·   	veita stjórnvöldum aðhald þegar þau sýna tregðu við birtingu gagna,  
-·   	birta gögn sem félaginu áskotnast og ekki eru þegar aðgengileg á auðveldan hátt frá opinberum aðilum,  
-·   	standa að fræðslu og kynningarstarfsemi um opin gögn, bæði almennt og einnig fyrir ákveðnar tegundir gagna.
+* óska eftir gögnum í vörslu opinberra aðila sem almenningur á rétt á
+* reka stjórnsýslumál, og eftir atvikum dómsmál, þegar stjórnvöld tregðast við að gera gögn aðgengileg almenningi sem með réttu ættu að vera það,  
+* veita stjórnvöldum aðhald þegar þau sýna tregðu við birtingu gagna,  
+* birta gögn sem félaginu áskotnast og ekki eru þegar aðgengileg á auðveldan hátt frá opinberum aðilum,  
+* standa að fræðslu og kynningarstarfsemi um opin gögn, bæði almennt og einnig fyrir ákveðnar tegundir gagna.
 
 ## **3\. gr. Fjármögnun starfsemi félagsins**
 
