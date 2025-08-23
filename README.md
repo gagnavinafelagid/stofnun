@@ -1,3 +1,5 @@
+![Merki Gagnavinafélagsins](myndir/logo.svg)
+
 # Gagnavinafélagið – Stofngögn
 
 Velkomin á vinnusvæði Gagnavinafélagsins!
@@ -6,14 +8,15 @@ Gagnavinafélagið er félag í stofnun sem hefur þann tilgang að vinna að au
 
 ## Um þessi skjöl
 
-Hér í `stofnun/` möppunni má finna drög að þeim skjölum sem mynda lagalegan og stefnumarkandi grunn að félaginu. Markmiðið með að birta þau hér er að fá athugasemdir og ábendingar frá verðandi félagsmönnum og öðrum velunnurum.
+Hér í möppunni má finna drög að þeim skjölum sem mynda lagalegan og stefnumarkandi grunn að félaginu. Markmiðið með að birta þau hér er að fá athugasemdir og ábendingar frá verðandi félagsmönnum og öðrum velunnurum.
 
 Skjölin eru:
 
-* **`stofnsamningur.md`**: Formlegur samningur um stofnun félagsins.
-* **`samthykktir.md`**: Lög og reglur félagsins. Þetta er stjórnarskrá okkar.
-* **`stofnfundargerd.md`**: Sniðmát að fundargerð fyrir formlegan stofnfund.
-* **`stefna-um-gagnabeidnir.md`**: Drög að stefnu um hvernig félagið mun standa að beiðnum um gögn, kærum og birtingu.
+* **[`stofnsamningur.md`](stofnsamningur.md)**: Formlegur samningur um stofnun félagsins.
+* **[`samthykktir.md`](samthykktir.md)**: Lög og reglur félagsins. Þetta er stjórnarskrá okkar.
+* **[`stofnfundargerd.md`](stofnfundargerd.md)**: Sniðmát að fundargerð fyrir formlegan stofnfund.
+* **[`stefna-um-gagnabeidnir.md`](stefna-um-gagnabeidnir.md)**: Drög að stefnu um hvernig félagið mun standa að beiðnum um gögn, kærum og birtingu.
+* **[`myndir/`](myndir)**: Tillögur að logo fyrir félagið.
 
 **Vinsamlegast athugið:** Öll skjölin eru drög og við fögnum öllum ábendingum sem geta gert þau betri.
 
@@ -33,4 +36,4 @@ Við stefnum á að fara yfir allar ábendingar sem berast.
 3.  Stofna félagið og skrá það í almannaheillafélagaskrá.
 4.  Hefja störf!
 
-Hefur þú áhuga á að gerast stofnfélagi? Fylgstu með eða sendu okkur línu!
+Hefur þú áhuga á að gerast stofnfélagi? [Skráðu þig á áhugalista](https://docs.google.com/forms/d/e/1FAIpQLSchiIPnYRMKLja2mg3iddHJLQeoooEZ72BdWwEEDLO9auM0nw/viewform?usp=header) og við leyfum þér að fylgjast með
