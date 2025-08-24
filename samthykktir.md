@@ -28,17 +28,15 @@ Rétt til aðildar eiga allir einstaklingar sem styðja tilgang félagsins. Ums�
 
 Félagsmenn hafa atkvæðisrétt, tillögurétt og málfrelsi á félagsfundum, að því gefnu að þeir séu skuldlausir við félagið.
 
-Stjórn félagsins heldur félagaskrá í samræmi við gildandi lög. Aðild fellur niður við skriflega úrsögn til stjórnar, við andlát eða ef félagsmaður er rekinn úr félaginu með stjórnarákvörðun vegna alvarlegra brota á samþykktum eða vegna þess að hafa unnið gegn hagsmunum þess.
+Stjórn félagsins heldur félagaskrá í samræmi við gildandi lög. Aðild fellur niður við skriflega úrsögn til stjórnar.
 
 ## **5\. gr. Fundarboðun, fjarfundir og dagskrá aðalfundar**
 
-Aðalfund skal halda innan sex mánaða frá lokum reikningsárs ár hvert og skal boða til hans með a.m.k. tveggja vikna fyrirvara með sannanlegum hætti, t.d. með tölvupósti á netfang sem skráð er í félagaskrá. Til almennra félagsfunda skal boða með sama hætti og aðalfundar.
+Aðalfund skal halda innan sex mánaða frá lokum reikningsárs ár hvert og skal boða til hans með a.m.k. tveggja vikna fyrirvara með sannanlegum hætti, t.d. með tölvupósti á netfang sem skráð er í félagaskrá.
 
 Heimilt er að halda fundi rafrænt og heimila rafræna atkvæðagreiðslu samkvæmt nánari reglum sem stjórn setur.
 
 Aðalfundur er löglegur sé rétt til hans boðað. Nema annað sé tekið fram í samþykktum þessum, ræður einfaldur meirihluti greiddra atkvæða úrslitum mála. Lagabreytingar krefjast þó samþykkis 3/4 greiddra atkvæða.
-
-Félagsmenn sem óska eftir að fá mál tekið fyrir á aðalfundi skulu senda tillögu þess efnis til stjórnar eigi síðar en 7 dögum fyrir boðaðan fund.
 
 Dagskrá aðalfundar skal vera sem hér segir:
 
