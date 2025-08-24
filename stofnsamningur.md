@@ -38,12 +38,12 @@ Trúnaðarmaður til vara: [NAFN_VARATRÚNAÐARMANNS_TIL_SKOÐUNAR_REIKNINGA_OG_
 **5. Reikningsár og félagsgjald fyrsta árs**  
 Reikningsár félagsins er almanaksárið. Félagsgjald fyrir fyrsta starfsár er ákveðið: kr. 500 (fimm hundruð krónur). Gjalddagi er 30 dögum frá stofnfundardegi nema ákveðið sé annað.
 
-**6. Umboð til skráningar og stofnunar bankareikning**
+**6. Umboð til skráningar og stofnunar bankareikning**  
 Stofnendur veita formanni, [NAFN_FORMANNS_KENNITALA_OG_TÖLVUPÓSTFANG], fullt umboð til að annast umsókn um skráningu félagsins í almannaheillafélagaskrá hjá Skattinum, undirrita og skila öllum nauðsynlegum gögnum og eyðublöðum, þar á meðal RSK 17.09 og RSK 17.28 (raunverulegir eigendur).  
 
 Þá er formanni einnig veitt heimild til að stofna bankareikning í nafni félagsins, skrá greiðsluaðila og annast rafræna auðkenningu og greiðslulausnir fyrir hönd félagsins.
 
-**7. Undirskriftir stofnenda**
+**7. Undirskriftir stofnenda**  
 Með undirritun staðfesta stofnendur réttmæti framangreinds og samþykki sitt fyrir stofnun félagsins og samþykktum þess.
 
 ***Undirskriftir***
